@@ -130,5 +130,14 @@
                                            &trans        &none         &trans        &none         &trans        &trans
             >;
         };
+
+        layer_4 {
+            bindings = <
+&trans  &trans  &trans  &trans  &trans  &trans  &kp NUMBER_1  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans        &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans        &trans  &trans  &trans  &trans  &trans
+                        &trans  &trans  &trans  &trans        &trans  &trans
+            >;
+        };
     };
 };
